@@ -211,3 +211,5 @@ function Set-CatppuccinMacchiato {
         }
     }
 }
+
+Set-CatppuccinMacchiato
