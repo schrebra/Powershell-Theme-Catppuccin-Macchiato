@@ -4,6 +4,8 @@ A native dark mode configuration bringing the soothing, pastel tones of the [Cat
 
 This repository contains the necessary scripts to apply the theme to both the standard Windows PowerShell 5.1 console (via 24-bit ANSI escape sequences) and the PowerShell ISE (via WPF color objects).
 
+![Theme Preview](Screenshot/2026-08-19_220421.png)
+
 ---
 
 ## 🚀 Usage
@@ -29,6 +31,3 @@ The ISE script maps the Macchiato palette directly to the `$psISE.Options` objec
 2. Load and run the ISE theme script provided in this repository.
 3. The editor and console panes will instantly update. These settings automatically save to your user profile and will persist across future sessions.
 
----
-
-Are there specific script filenames in your repository root (like `Install-ConsoleTheme.ps1`) that you want me to explicitly name in those numbered steps to make the documentation clearer for other users?
